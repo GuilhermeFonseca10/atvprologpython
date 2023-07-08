@@ -1,0 +1,3 @@
+more-itertools==9.1.0
+pyswip==0.2.10
+pytholog==2.4.1
